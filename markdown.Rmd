@@ -2,7 +2,7 @@
 title: "Report on Gun Murders"
 author: "Colson Perkins"
 date: "12/29/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
